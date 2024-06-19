@@ -1,0 +1,8 @@
+.top-container {
+    display: flex;
+    justify-content: space-between;
+}
+.top-container img {
+    width: 40px;
+    height: 40px;
+}
